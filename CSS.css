@@ -1,0 +1,66 @@
+
+
+ .welcomepage{
+          color: blue;
+          font-size: 20px;
+          font-weight: 100;
+          font-style: normal;
+          font-weight: bold;
+          margin-bottom: 10px;
+          background-color: aqua;
+          
+      
+        }
+        img{
+         width: 100px;
+         height: 200px;
+         margin-left: 50px;
+         margin-top: 10px;
+         margin-bottom: 5px;
+          
+        }
+        .w3_logo{
+          width: 40px;
+         height: 30px;
+         margin-left: 10px;
+        }
+        .miu_youtube{
+          margin-left: 10px;
+        }
+        .miu_homapage{
+          margin-left: 10px;
+          
+        }
+        .miu-footer{
+          color :brown;
+          font-size: 20px;
+          font-weight: 100;
+          font-style: normal;
+          font-weight: bold;
+      
+        }
+        .about_me{
+          margin-bottom: 10px;
+        }
+        .my_contact{
+          margin-bottom: 10px;
+        }
+        .aboutme1{
+          font-weight: bold;
+          background-color: brown;
+          color: yellowgreen;
+          font-size: larger;
+        
+        }
+      
+        .theFooter{
+          width: 100%;
+          background-color:green;
+          
+        }
+       
+     
+    
+        
+        
+          
